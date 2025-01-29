@@ -15,3 +15,10 @@ A simple rendition of Asteroids using Pygame.
    ```bash
    python3 main.py
    ```
+
+# Controls
+### W - to move forward
+### S - to move backward
+### A - to turn left
+### D - to turn right
+### Space - to shoot
